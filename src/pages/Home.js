@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Card from '../components/Home/Card.js'
+import Maincomponent from '../components/Home/Maincomponent'
 
 
 export default class Contact extends Component {
     render() {
         return (
             <div>
-                <Card />
+                <Maincomponent />
             </div>
         )
     }

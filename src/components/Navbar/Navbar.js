@@ -6,7 +6,7 @@ import './style.css';
 class Nav extends Component {
     render () {
     return (
-      <section style={{backgroundColor:"#667a88"}}>
+      <section style={{backgroundColor:"black"}}>
           <div>
               <ul>
                   <NavLink exact to="/" activeStyle={{fontWeight: "800", fontStyle:"oblique"}}><li>Home</li></NavLink>
