@@ -16,3 +16,13 @@
   .contactForm textarea{
     height: 100px;
   }
+
+  .formheader {
+    text-align: center;
+  }
+
+  .formheadertext {
+    color: white;
+    font-size: 50px;
+    margin-bottom: -10px;
+  }

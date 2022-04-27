@@ -5,9 +5,13 @@ class Form extends Component {
     render () {
     return (
   <div>
+    <div className="formheader">
+      <h2 className="formheadertext">Let's connect!</h2>
+    </div>
     <form 
       method='POST' 
       name='contactform' 
+      data-netlify="true"
       className='contactForm'>
 
       <input 
