@@ -10,7 +10,8 @@ class Card extends Component {
       <h1>Hello</h1>
     </div>
     <div className="description">
-      <p className="main-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+      <p className="main-p">I am a freelance front end web developer and graphic designer based out of Phoenix, Arizona. I am available for both ongoing and one-time opportunities in web design and print. In my free time I enjoy gardening and spending time with my family and pets.</p>
+      <p className="main-p"> I look forward to working with you on your next project!</p>
       </div>
       <div className="buttoncontainer">
         <button onClick={() => window.location = '/contact'}className="homebutton">Get in Touch</button>

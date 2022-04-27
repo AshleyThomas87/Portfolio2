@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PDF from './resume.pdf';
-import placeholder from '..//..//images/quoteproject.jpg';
+import ashleypic from '..//..//images/ashleypic.jpeg';
 import './resumestyle.css';
 
 class Resume extends Component {
@@ -11,7 +11,7 @@ class Resume extends Component {
         <div className="about">
           <div className="row">
             <div className="three columns">
-              <img className="profile-pic" src={placeholder} />
+              <img className="profile-pic" src={ashleypic} />
               </div>
               <div className="nine columns main-col">
                 <h2>Work with Me</h2>
