@@ -5,7 +5,7 @@ body {
 .container {
     margin-top: -100px;
     padding-bottom: 100px;
-    background-size: 90%;
+    background-size: cover;
     background-repeat: no-repeat;
     /* background-position: 25% 25%; */
 
@@ -17,7 +17,7 @@ body {
 
 h1 {
     color: #66fcf1;
-    font-size: 200px;
+    font-size: 12rem;
     margin-bottom: 0px;
 }
 
@@ -29,8 +29,8 @@ h1 {
 
 .main-p {
     font-size: 25px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .buttoncontainer {

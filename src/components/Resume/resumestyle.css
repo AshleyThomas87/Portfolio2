@@ -199,7 +199,8 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #fc6671;
+   /* background: #fc66ca; */
+   background: #4DBEB6;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -252,6 +253,6 @@ input[type="button"].full-width {
 }
 
 .emaillink {
-    color: #fc6671;
+    color: #fc66ca;
     cursor: pointer;
 }
