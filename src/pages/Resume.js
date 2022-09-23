@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Resume from '../components/Resume/Resume.js'
+import Resumecomponent from '../components/Resume/Resumecomponent.js'
 
 
-export default class Contact extends Component {
+export default class Resume extends Component {
     render() {
         return (
             <div>
-                <Resume />
+                <Resumecomponent />
             </div>
         )
     }

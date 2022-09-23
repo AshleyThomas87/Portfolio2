@@ -3,7 +3,7 @@ import PDF from './resume.pdf';
 import ashleypic from '..//..//images/ashleypic.jpeg';
 import './resumestyle.css';
 
-class Resume extends Component {
+class Resumecomponent extends Component {
     render () {
     return (
       <section>
@@ -142,4 +142,4 @@ class Resume extends Component {
     }
   }
   
-  export default Resume;
+  export default Resumecomponent;
